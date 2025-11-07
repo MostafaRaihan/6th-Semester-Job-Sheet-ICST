@@ -1,4 +1,4 @@
-# 🧾 6th Semester Jobsheet Topics  
+# 🧾 6th Semester Items Topics  
 **Technology:** Computer Science and Technology (CST)  
 **Institute:** Institute of Computer Science & Technology (ICST)  
 
